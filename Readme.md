@@ -37,7 +37,6 @@
 
 ## <font color="red">Backend Tools</font> 
 <br><br>
-
 <img src="https://miro.medium.com/max/810/0*wnA00t0IIv52JSPA.png" height="50" width="50">
 <img src="https://mertcangokgoz.com/wp-content/uploads/2018/06/django-logo-negative-1080-yeni.png" height="50" width="50">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KGopemHd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/mzsw37ziz8jmshr4a796.png" height="50" width="50">
