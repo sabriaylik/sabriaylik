@@ -56,10 +56,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=headofsoftware)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-## most Usage Languages
 
-<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=headofsoftware&layout=compact
-"/>
 
 
 
