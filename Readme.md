@@ -1,7 +1,7 @@
 ### Hi there , I am  Sabri.
 
 
-##  Backend Developer | Machine Learning
+##  Backend Developer | Data Scientist
 
 
 # <font color="blue">Lets coding</font>
