@@ -8,11 +8,11 @@
 
 ### <font color="red">Reach Me</font> 
 
-[<img height="22" align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"  />][linkedin]
+[<img height="45" align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"  />][linkedin]
 
-[<img height="22"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" align="left"/>][kaggle]   
+[<img height="45"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" align="left"/>][kaggle]   
 
-[<img height="22" width="22" src="https://apprecs.org/gp/images/app-icons/300/d6/com.alfiewn.easymail.jpg" />][mail]
+[<img height="45"  src="https://apprecs.org/gp/images/app-icons/300/d6/com.alfiewn.easymail.jpg" />][mail]
 
 [linkedin]:https://www.linkedin.com/in/sabri-ayl%C4%B1k-a11036214/
 [kaggle]:https://www.kaggle.com/yusufyldz
