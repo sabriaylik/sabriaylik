@@ -36,11 +36,13 @@
 [![Backend Tools](https://skillicons.dev/icons?i=react,html,css,bootstrap,)](https://skillicons.dev)
 
 ## Data Science Tools
-
+<div>
 <img src="https://img.icons8.com/color/512/tensorflow.png" height="45" float="left">
 <img src="https://img.icons8.com/color/512/pandas.png" height="45" float="left">
 <img src="https://img.icons8.com/color/512/numpy.png" height="45" float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" height="45" >
+
+</div>
 
 <br><br>
 
