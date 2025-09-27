@@ -1,51 +1,84 @@
-### Hi there , I am  Sabri.
+# 👋 Merhaba, ben Sabri AYLIK
 
+🎯 **Java & Backend Odaklı Yazılım Mühendisi**  
+📍 Türkiye | 💻 Uzmanlık Alanlarım: Java • Spring Boot • RESTful API • SQL • React.js • JSF/PrimeFaces
 
-##  Backend Developer | Data Scientist
+---
 
+## 🧑‍💻 Hakkımda
 
-# <font color="blue">Lets coding</font>
+Backend geliştirme alanında **kurumsal projelerde deneyim kazanmış** bir yazılım mühendisiyim.  
+Temiz kod prensipleri, ölçeklenebilir sistemler ve sürdürülebilir yazılım mimarileri üzerine çalışmayı seviyorum.
 
-### <font color="red">Reach Me</font> 
+- 🛠️ Java, Spring Boot ve Hibernate/JPA ile backend sistemleri geliştiriyorum.  
+- 🧑‍💻 JSF, PrimeFaces ve React.js ile frontend geliştirme tecrübem var.  
+- 🧪 Test ve entegrasyon süreçlerinde JUnit gibi birim test araçlarını kullanıyorum.  
+- 🤝 Agile/Scrum metodolojileriyle ekip içinde işbirliği yapmaya alışığım.  
 
-[<img height="45" align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"  />][linkedin]
+---
 
-[<img height="45"  src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.png" align="left"/>][kaggle]   
+## 🔧 Kullandığım Teknolojiler
 
-[<img height="45"  src="https://apprecs.org/gp/images/app-icons/300/d6/com.alfiewn.easymail.jpg" />][mail]
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-%239931CC?style=for-the-badge&logo=hibernate&logoColor=white" />
+  
+  <!-- Database -->
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSF%20%26%20PrimeFaces-%234285F4?style=for-the-badge&logo=java&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=JUnit5&logoColor=white" />
+  
+  <!-- API -->
+  <img src="https://img.shields.io/badge/REST%20API-%23007EC6?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-[linkedin]:https://www.linkedin.com/in/sabri-ayl%C4%B1k-a11036214/
-[kaggle]:https://www.kaggle.com/yusufyldz
-[mail]:mailto:sabri.aylik@hotmail.com
+---
 
+## 📂 Öne Çıkan Projeler
 
+### 🔹 [OIZ Management System](https://github.com/sabriaylik/OIZ-Management)  
+**Açıklama:** Organize Sanayi Bölgeleri için geliştirilmiş çok modüllü yazılım sistemi.  
+**Teknolojiler:** Java, Spring Boot, JSF/PrimeFaces, SQL Server  
 
-<br><br>
+### 🔹 [Vehicle Tracking System](https://github.com/sabriaylik/Vehicle-Tracking)  
+**Açıklama:** Şehirlerarası otobüs terminalinde araç giriş-çıkış takibi ve ücretlendirme sistemi.  
+**Teknolojiler:** Spring Boot, Spring Data JPA, JSF, REST API  
 
-## Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=python,cs,js,php)](https://skillicons.dev)
+---
 
+## 📈 GitHub İstatistikleri
 
-## Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabriaylik&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriaylik&layout=compact&theme=tokyonight" width="350"/>
+</p>
 
-## Backend Tools
-[![Backend Tools](https://skillicons.dev/icons?i=dotnet,express,nodejs)](https://skillicons.dev)
+---
 
-## Frontend Tools
-[![Backend Tools](https://skillicons.dev/icons?i=react,html,css,bootstrap,)](https://skillicons.dev)
+## 📫 Bana Ulaşın
 
-## Data Science Tools
-<div>
-<img src="https://img.icons8.com/color/512/tensorflow.png" height="45" float="left">
-<img src="https://img.icons8.com/color/512/pandas.png" height="45" float="left">
-<img src="https://img.icons8.com/color/512/numpy.png" height="45" float="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" height="45" >
+- 📧 Email: [sabri.aylik@hotmail.com](mailto:sabri.aylik@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sabriaylik](https://linkedin.com/in/sabriaylik)  
+- 🐙 GitHub: [github.com/sabriaylik](https://github.com/sabriaylik)
 
-</div>
+---
 
-<br><br>
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabriaylik)](https://github.com/anuraghazra/github-readme-stats)
--->
-
+> 🧠 “Sadece çalışan kod yeterli değildir. Anlaşılır ve sürdürülebilir kod, gerçek mühendisliğin ürünüdür.”  
+> – Sabri AYLIK
